@@ -31,7 +31,8 @@ Here are some insights from the analysis:
 - **Predicted 3P% over the next 5 seasons** using regression models
 - **Comparison of Curry’s efficiency with other NBA greats**
 
-<img width="1087" alt="Curry VS NBA Avergae" src="https://github.com/user-attachments/assets/ef75f8bc-73c8-47d1-ad7c-bf9dd9482b53" />
+<img width="645" alt="Polynomial Regression" src="https://github.com/user-attachments/assets/2edb34ad-6ce2-43b9-9d3a-b722bdb16e21" />
+
 
 
 ## 🏀 Author
